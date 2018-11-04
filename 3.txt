@@ -1,4 +1,8 @@
 Test1
 test2
+<<<<<<< Updated upstream
 
 345678
+=======
+1111111
+>>>>>>> Stashed changes
